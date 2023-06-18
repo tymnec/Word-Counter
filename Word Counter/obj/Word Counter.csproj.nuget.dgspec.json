@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/nikhil/Desktop/Projects/Word Counter/Word Counter/Word Counter/Word Counter.csproj": {}
+  },
+  "projects": {
+    "/home/nikhil/Desktop/Projects/Word Counter/Word Counter/Word Counter/Word Counter.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/nikhil/Desktop/Projects/Word Counter/Word Counter/Word Counter/Word Counter.csproj",
+        "projectName": "Word Counter",
+        "projectPath": "/home/nikhil/Desktop/Projects/Word Counter/Word Counter/Word Counter/Word Counter.csproj",
+        "packagesPath": "/home/nikhil/.nuget/packages/",
+        "outputPath": "/home/nikhil/Desktop/Projects/Word Counter/Word Counter/Word Counter/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/nikhil/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "bootstrap": {
+              "target": "Package",
+              "version": "[5.3.0-alpha3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.107/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

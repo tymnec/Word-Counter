@@ -1,0 +1,31 @@
+/home/nikhil/Desktop/Projects/Word Counter/Word Counter/Word Counter/bin/Debug/net7.0/appsettings.Development.json
+/home/nikhil/Desktop/Projects/Word Counter/Word Counter/Word Counter/bin/Debug/net7.0/appsettings.json
+/home/nikhil/Desktop/Projects/Word Counter/Word Counter/Word Counter/bin/Debug/net7.0/Word Counter.staticwebassets.runtime.json
+/home/nikhil/Desktop/Projects/Word Counter/Word Counter/Word Counter/bin/Debug/net7.0/Word Counter
+/home/nikhil/Desktop/Projects/Word Counter/Word Counter/Word Counter/bin/Debug/net7.0/Word Counter.deps.json
+/home/nikhil/Desktop/Projects/Word Counter/Word Counter/Word Counter/bin/Debug/net7.0/Word Counter.runtimeconfig.json
+/home/nikhil/Desktop/Projects/Word Counter/Word Counter/Word Counter/bin/Debug/net7.0/Word Counter.dll
+/home/nikhil/Desktop/Projects/Word Counter/Word Counter/Word Counter/bin/Debug/net7.0/Word Counter.pdb
+/home/nikhil/Desktop/Projects/Word Counter/Word Counter/Word Counter/obj/Debug/net7.0/Word Counter.csproj.AssemblyReference.cache
+/home/nikhil/Desktop/Projects/Word Counter/Word Counter/Word Counter/obj/Debug/net7.0/Word Counter.GeneratedMSBuildEditorConfig.editorconfig
+/home/nikhil/Desktop/Projects/Word Counter/Word Counter/Word Counter/obj/Debug/net7.0/Word Counter.AssemblyInfoInputs.cache
+/home/nikhil/Desktop/Projects/Word Counter/Word Counter/Word Counter/obj/Debug/net7.0/Word Counter.AssemblyInfo.cs
+/home/nikhil/Desktop/Projects/Word Counter/Word Counter/Word Counter/obj/Debug/net7.0/Word Counter.csproj.CoreCompileInputs.cache
+/home/nikhil/Desktop/Projects/Word Counter/Word Counter/Word Counter/obj/Debug/net7.0/Word Counter.MvcApplicationPartsAssemblyInfo.cache
+/home/nikhil/Desktop/Projects/Word Counter/Word Counter/Word Counter/obj/Debug/net7.0/Word Counter.RazorAssemblyInfo.cache
+/home/nikhil/Desktop/Projects/Word Counter/Word Counter/Word Counter/obj/Debug/net7.0/Word Counter.RazorAssemblyInfo.cs
+/home/nikhil/Desktop/Projects/Word Counter/Word Counter/Word Counter/obj/Debug/net7.0/staticwebassets/msbuild.Word Counter.Microsoft.AspNetCore.StaticWebAssets.props
+/home/nikhil/Desktop/Projects/Word Counter/Word Counter/Word Counter/obj/Debug/net7.0/staticwebassets/msbuild.build.Word Counter.props
+/home/nikhil/Desktop/Projects/Word Counter/Word Counter/Word Counter/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Word Counter.props
+/home/nikhil/Desktop/Projects/Word Counter/Word Counter/Word Counter/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Word Counter.props
+/home/nikhil/Desktop/Projects/Word Counter/Word Counter/Word Counter/obj/Debug/net7.0/staticwebassets.pack.json
+/home/nikhil/Desktop/Projects/Word Counter/Word Counter/Word Counter/obj/Debug/net7.0/staticwebassets.build.json
+/home/nikhil/Desktop/Projects/Word Counter/Word Counter/Word Counter/obj/Debug/net7.0/staticwebassets.development.json
+/home/nikhil/Desktop/Projects/Word Counter/Word Counter/Word Counter/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/home/nikhil/Desktop/Projects/Word Counter/Word Counter/Word Counter/obj/Debug/net7.0/scopedcss/bundle/Word Counter.styles.css
+/home/nikhil/Desktop/Projects/Word Counter/Word Counter/Word Counter/obj/Debug/net7.0/scopedcss/projectbundle/Word Counter.bundle.scp.css
+/home/nikhil/Desktop/Projects/Word Counter/Word Counter/Word Counter/obj/Debug/net7.0/Word Counter.dll
+/home/nikhil/Desktop/Projects/Word Counter/Word Counter/Word Counter/obj/Debug/net7.0/refint/Word Counter.dll
+/home/nikhil/Desktop/Projects/Word Counter/Word Counter/Word Counter/obj/Debug/net7.0/Word Counter.pdb
+/home/nikhil/Desktop/Projects/Word Counter/Word Counter/Word Counter/obj/Debug/net7.0/Word Counter.genruntimeconfig.cache
+/home/nikhil/Desktop/Projects/Word Counter/Word Counter/Word Counter/obj/Debug/net7.0/ref/Word Counter.dll
